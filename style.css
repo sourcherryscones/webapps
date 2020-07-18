@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&display=swap');
+
+*{
+  margin:0 auto;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#hero{
+  text-align:center;
+  margin: 20px;
+}
+
+h1{
+  margin-top:5px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:45px;
+  color:#2aa1f8;
+}
+
+h3{
+  margin-top:15px;
+  font-family:'Bitter',serif;
+  font-size:20px;
+  color:#555555;
+  opacity:85%;
+}
+
+select{
+  margin:26px;
+  font-size:30px;
+  font-weight:500;
+  padding:5px 0px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background:#ffffff;
+  background-image:none;
+  color:#2aa1f8;
+  border-radius:5px;
+  text-align-last:center;
+}
+
+option{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:20px;
+}
+
+#cases{
+  font-size:30px;
+  text-align:center;
+  background-color:#2aa1f8;
+  padding:35px;
+  color:#ffffff;
+}
+#icu{
+  font-size:30px;
+  text-align:center;
+  background-color:#ffffff;
+  padding:35px;
+  color:#2aa1f8;
+}
+#deaths{
+  font-size:30px;
+  text-align:center;
+  color:#2aa1f8;
+  padding:35px;
+}
+#hosp{
+  font-size:30px;
+  text-align:center;
+  background-color:#2aa1f8;
+  color:#ffffff;
+  padding:35px;
+}
+
+button{
+  text-align:center;
+  background-color:#555555;
+  color:#ffffff;
+  margin-left:10px;
+  font-size:20px;
+  font-family:'Bitter',serif;
+  border-radius:20px;
+  border-style:none;
+  padding:10px 80px;
+}
