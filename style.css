@@ -82,3 +82,11 @@ button{
   border-style:none;
   padding:10px 80px;
 }
+
+footer{
+  background:#555555;
+  color:#ffffff;
+  padding:10px;
+  font-size:10px;
+  text-align:center;
+}
