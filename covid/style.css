@@ -31,9 +31,9 @@ select{
   font-weight:500;
   padding:5px 0px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background:#ffffff;
+  background:#555555;
   background-image:none;
-  color:#2aa1f8;
+  color:#ffffff;
   border-radius:5px;
   text-align-last:center;
 }
